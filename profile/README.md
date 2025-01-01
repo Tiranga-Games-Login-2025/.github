@@ -1,6 +1,5 @@
 # Tiranga Game Login
 
-# Quick Access Links
 # [Tiranga Game Login](https://www.tirangagame.top/#/register?invitationCode=5668216473575)
 
 # [Tiranga Game Register](https://www.tirangagame.top/#/register?invitationCode=5668216473575)
