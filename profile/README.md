@@ -1,7 +1,7 @@
+[Tiranga Game Login](https://tirangalogin.org/)
 
-                                        [Tiranga Game Login](https://tirangalogin.org/)
 
-                                        [Tiranga Game Register](https://tirangalogin.org/)
+[Tiranga Game Register](https://tirangalogin.org/)
 
 # Tiranga Game
 
